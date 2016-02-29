@@ -279,12 +279,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:mail.field_res_partner_message_needaction
 #: model:ir.model.fields,field_description:mail.field_res_users_message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Action requis"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_message_subtype_default
 msgid "Activated by default when subscribing."
-msgstr ""
+msgstr "Activé par défaut si inscrit"
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_mail_alias_search
@@ -301,7 +301,7 @@ msgstr ""
 #: code:addons/mail/static/src/xml/chatter.xml:19
 #, python-format
 msgid "Activity"
-msgstr ""
+msgstr "Activité"
 
 #. module: mail
 #. openerp-web
@@ -322,7 +322,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:mail.field_email_template_preview_user_signature
 #: model:ir.model.fields,field_description:mail.field_mail_template_user_signature
 msgid "Add Signature"
-msgstr ""
+msgstr "Ajouter signature"
 
 #. module: mail
 #. openerp-web
@@ -346,17 +346,17 @@ msgstr ""
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_compose_message_partner_ids
 msgid "Additional Contacts"
-msgstr ""
+msgstr "Contacts additionnels"
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_mail_form
 msgid "Advanced"
-msgstr ""
+msgstr "Avancé"
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.email_template_form
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Paramètres avancés"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_channel_alias_id
